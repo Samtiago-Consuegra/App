@@ -1,3 +1,5 @@
 ella: Hola!
 el: ¿Quien putas eres?
 ella: ;-;
+
+el: ¿Quien te paso mi numero?
